@@ -50,7 +50,8 @@ Do the usual:
 
     python setup.py install
     
-(pyparsing requires Python 2.3.2 or later.)
+(This branch work requires Python 3.x )
+
 
 
 Documentation
